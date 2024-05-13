@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋, I'm nikura44!
+
+我是一名java开发者，如你所见，截至到2024年中，我仍然是一名默默无闻的开发者，我会努力磨练自身的技术！
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nikura44&show_icons=true)
 
 <!--
 **nikura44/nikura44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
